@@ -1,5 +1,5 @@
 import {Text,StyleSheet} from 'react-native';
-import {Colors} from '@/constants/colors.ts';
+import {Colors} from '@/constants/colors';
 
 type ThemedTextProps = {
 	type: string,

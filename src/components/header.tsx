@@ -6,7 +6,7 @@ export default function Header() {
   return (
     <View style={styles.header}>
       <Image
-        source={require("../assets/images/somaseer-logo.jpg")}
+        source={require("../../assets/images/somaseer-logo.jpg")}
         style={styles.logo}
       />
 
